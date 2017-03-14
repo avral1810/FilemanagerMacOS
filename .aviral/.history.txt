@@ -1,0 +1,6 @@
+mkdir : .aa
+ls : /Users/Aviral/Desktop/Python/FileX/.aviral
+chdir : .aa
+cd : ...
+cd : ./
+cd : ..

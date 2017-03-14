@@ -1,0 +1,15 @@
+help, man = shows help file
+
+ls, list = list all files and folders
+
+xray = list all directories as a tree, staring from current directory
+
+chdir, cd = change directory, wait for system to ask for destination
+
+mkdir = make new directory, wait for system to ask for the name of new director
+
+make = create and add to text file
+
+cat = see a text file
+
+suicide, kill = delete the current logged in user
